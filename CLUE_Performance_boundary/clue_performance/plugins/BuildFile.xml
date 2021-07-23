@@ -1,0 +1,11 @@
+<use name="DataFormats/TrackReco"/>
+<use name="FWCore/Framework"/>
+<use name="FWCore/ParameterSet"/>
+<use name="FWCore/PluginManager"/>
+<use name="DataFormats/CaloRecHit"/>
+<use name="DataFormats/EgammaCandidates"/>
+<use name="RecoLocalCalo/HGCalRecAlgos"/>
+<use name="DataFormats/L1THGCal"/>
+<use name="DataFormats/ParticleFlowReco"/>
+<use name="DataFormats/ParticleFlowCandidate"/>
+<flags EDM_PLUGIN="1"/>
